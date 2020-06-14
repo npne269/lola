@@ -100,7 +100,7 @@ class _LoginCardState extends State<LoginCard> {
                                 onPressed: () {
                                   print("My School: $_mySchool\nMy Class: $_myClass");
                                 },
-                                text: "login"),
+                                text: "Submit"),
                           ),
                         ],
                       ),
